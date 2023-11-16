@@ -1,0 +1,77 @@
+{   "audio":"audios/SonidoTp4.mp3",
+    "modelo":"modelos/mapaPombero2.glb",
+    "fondo":"rgb(0,50,100)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"camara1",
+                "target":"target1",
+                "nombre":"vista inicial"
+           },
+           {
+               "tiempo":"00:01",
+               "duracion":5000,
+               "camara":"camara2",
+               "target":"target1",
+               "nombre":"pombero bosque"
+          },
+          { 
+               "tiempo":"00:15", 
+               "duracion":2000,
+               "camara":"camara3",
+               "target":"target2",
+               "nombre":"pombero feo"
+          },
+          {
+               "tiempo":"00:25",
+               "duracion":0,
+               "camara":"camara4",
+               "target":"target4",
+               "nombre":"pobre pombero :("
+          },
+          {
+               "tiempo":"00:35",
+               "duracion":0,
+               "camara":"camara5",
+               "target":"target5",
+               "nombre":"pombero a chancho, jaja, que capo el pombero"
+          },
+          {
+               "tiempo":"00:45",
+               "duracion":3000,
+               "camara":"camara6",
+               "target":"target6",
+               "nombre":"el pombero se para de manos"
+          },
+          {
+               "tiempo":"01:03",
+               "duracion":3000,
+               "camara":"camara7",
+               "target":"target7",
+               "nombre":"nooo pombero, qué hiciste?"
+          },
+          {
+               "tiempo":"01:10",
+               "duracion":3000,
+               "camara":"camara8",
+               "target":"target8",
+               "nombre":"hide on tree, por faker, se entiende?"
+          },
+          {
+               "tiempo":"01:27",
+               "duracion":0,
+               "camara":"camara9",
+               "target":"target9",
+               "nombre":"ya no sé que nombre poner, o sea soy programador flaco"
+          },
+          {
+               "tiempo":"02:04",
+               "duracion":0,
+               "camara":"camara3",
+               "target":"target2",
+               "nombre":"ya no sé que nombre poner, o sea soy programador flaco"
+          }
+      ]
+}
